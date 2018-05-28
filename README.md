@@ -4,7 +4,7 @@ Using KMeans Clustering to cluster Universities into to two groups, Private and 
 
 ### The Data
 
-We will use a data frame with 777 observations on the following 18 variables.
+The data frame has 777 observations on the following 18 variables.
 * Private A factor with levels No and Yes indicating private or public university
 * Apps Number of applications received
 * Accept Number of applications accepted
